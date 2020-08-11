@@ -1,2 +1,5 @@
-com\mycompany\MusicCrud\JAXRSConfiguration.class
-com\mycompany\MusicCrud\resources\JavaEE8Resource.class
+formularios\CatalogoDb.class
+conection\Conexion.class
+formularios\MusicaDb.class
+formularios\Catalogo.class
+formularios\Musica.class
